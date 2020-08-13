@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.exe
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.deps.json
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.runtimeconfig.json
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.dll
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\bin\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.pdb
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.dll
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.pdb
+C:\Users\Administrator\source\repos\IkiSayidanBüyüğünüBulma\IkiSayidanBüyüğünüBulma\obj\Debug\netcoreapp3.1\IkiSayidanBüyüğünüBulma.genruntimeconfig.cache
